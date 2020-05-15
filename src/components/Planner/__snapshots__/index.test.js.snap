@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Planner 1`] = `
+<div
+  className="sc-htpNat cWnHDn"
+>
+  <div
+    className="sc-bwzfXH eeNKNV"
+  >
+    <h3
+      className="sc-bdVaJa geihCd"
+    >
+      Segunda
+    </h3>
+  </div>
+  <div
+    className="sc-bwzfXH eeNKNV"
+  >
+    <h3
+      className="sc-bdVaJa geihCd"
+    >
+      Terça
+    </h3>
+  </div>
+  <div
+    className="sc-bwzfXH eeNKNV"
+  >
+    <h3
+      className="sc-bdVaJa geihCd"
+    >
+      Quarta
+    </h3>
+  </div>
+  <div
+    className="sc-bwzfXH eeNKNV"
+  >
+    <h3
+      className="sc-bdVaJa geihCd"
+    >
+      Quinta
+    </h3>
+  </div>
+  <div
+    className="sc-bwzfXH eeNKNV"
+  >
+    <h3
+      className="sc-bdVaJa geihCd"
+    >
+      Sexta
+    </h3>
+  </div>
+  <div
+    className="sc-bwzfXH eeNKNV"
+  >
+    <h3
+      className="sc-bdVaJa geihCd"
+    >
+      Sábado
+    </h3>
+  </div>
+  <div
+    className="sc-bwzfXH eeNKNV"
+  >
+    <h3
+      className="sc-bdVaJa geihCd"
+    >
+      Domingo
+    </h3>
+  </div>
+</div>
+`;
